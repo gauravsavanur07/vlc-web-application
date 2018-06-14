@@ -1,0 +1,11 @@
+{
+  "name": "aps",
+  "version": "1.0.0",
+  "description": "Videolan",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "author": "Gaurav Savanur",
+  "license": "ISC"
+}
