@@ -3,7 +3,7 @@
  *****************************************************************************
  * Copyright (C) 2008-2018 VideoLAN
  *
- * Authors: Alper Çakan <alpercakan98@gmail.com>
+ * Authors: Gaurav Savanur <gauravsavanur07@gmail.com>
  *
  * This program is free software; you can redistribute it and/or
  * modify it under the terms of the GNU General Public License
