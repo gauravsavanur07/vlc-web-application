@@ -1,4 +1,7 @@
 # vlc-web-application
+The following  repo is inactive and the live version is available at following link
+https://code.videolan.org/videolan/vlmc
+
  install dependencies
 npm install
 
